@@ -34,7 +34,7 @@
         "illuminate/support": "5.8.*|^6.0",
         "neomerx/json-api": "^1.0.3",
         "ramsey/uuid": "^3.0",
-        "symfony/psr-http-message-bridge": "^1.0",
+        "symfony/psr-http-message-bridge": "^1.0|^2.0",
         "zendframework/zend-diactoros": "^1.0|^2.0"
     },
     "require-dev": {
